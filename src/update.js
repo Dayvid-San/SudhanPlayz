@@ -9,7 +9,7 @@ let special;
 
 const CountStars = async () => {
   let StarsData = await fetch(
-    `https://api.github.com/users/Dayvid-san/starred?per_page=100&page=${page}`
+    `https://api.github.com/users/Dayvid-San/starred?per_page=100&page=${page}`
   ).then((res) => res.json());
   stars += StarsData.length;
   page++;
@@ -28,7 +28,7 @@ const WriteReadMe = async () => {
   if(mm === 12)special = ["⛄", "❄", "🎄"]
 
   //Fetching Info From Github API
-  let UserData = await fetch("https://api.github.com/users/SudhanPlayz").then(
+  let UserData = await fetch("https://api.github.com/users/Dayvid-San").then(
     (res) => res.json()
   );
 
@@ -63,8 +63,8 @@ const Sudhan = {
       Even more stats
   </summary>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dayvid-San&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dayvid-San&theme=tokyonight">
   </p>
 </details>
   
