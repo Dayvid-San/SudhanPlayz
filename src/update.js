@@ -9,7 +9,7 @@ let special;
 
 const CountStars = async () => {
   let StarsData = await fetch(
-    `https://api.github.com/users/SudhanPlayz/starred?per_page=100&page=${page}`
+    `https://api.github.com/users/Dayvid-san/starred?per_page=100&page=${page}`
   ).then((res) => res.json());
   stars += StarsData.length;
   page++;
