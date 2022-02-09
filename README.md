@@ -6,7 +6,7 @@ Thanks for visiting my github profile. Have a great day ahead!~
 <h2 align="center"> ✨ About Me ✨</h2>
 
 ```js
-const Sudhan = {
+const Dayvid = {
     FavouriteLanguage: "Javascript/Typescript",
     OpenedIssues: 76,
     OpenedPullRequests: 55,
@@ -23,15 +23,13 @@ const Sudhan = {
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dayvid-San&theme=tokyonight">
 </p>
-<details>
-  <summary>
-      Even more stats
-  </summary>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dayvid-SanPlayz&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dayvid-San&theme=tokyonight">
-  </p>
-</details>
+
+  
+ <div align="center">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Dayvid-san&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-san&layout=compact&langs_count=9&theme=tokyonight"/><br>
+</div>
+
   
 <!-- Last updated on Tue Feb 08 2022 12:23:10 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 8th February 2022 using magic</i> ✨
