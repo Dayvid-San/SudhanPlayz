@@ -27,10 +27,10 @@ const Dayvid = {
 </p>
 
 <details>
-    <summary>Mais detalhes</summary>
+    <summary>More deteils</summary>
  <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Dayvid-san&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-san&layout=compact&langs_count=9&theme=tokyonight"/><br>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dayvid-san&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvid-san&layout=compact&langs_count=9&theme=tokyonight"/><br>
 </div>    
 </details>
 
