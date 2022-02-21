@@ -7,15 +7,6 @@ let stars = 0,
 
 let special;
 
-const CountStars = async () => {
-  let StarsData = await fetch(
-    `https://api.github.com/users/Dayvid-San/starred?per_page=100&page=${page}`
-  ).then((res) => res.json());
-  stars += StarsData.length;
-  page++;
-  if (StarsData.length === 100) CountStars();
-  else WriteReadMe();
-};
 
 const WriteReadMe = async () => {
   //Get ReadMe path
